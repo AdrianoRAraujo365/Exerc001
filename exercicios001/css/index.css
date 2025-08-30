@@ -1,0 +1,51 @@
+ /* Configuração da tabela */
+table, th, td {
+  border: 3px solid black;
+  border-collapse: collapse;
+}
+
+/* Estilos gerais para o corpo e texto */
+body {
+  font-family: Arial, sans-serif;
+}
+
+h1, h2, h3, h4 {
+  color: #333;
+}
+
+h1 {
+  font-size: 2em;
+  font-weight: bold;
+}
+
+h2, h3, h4 {
+  font-size: 1.5em;
+}
+
+p {
+  font-size: 1.1em;
+  line-height: 1.6;
+}
+
+ol, ul {
+  margin-left: 20px;
+}
+
+table {
+  width: 100%;
+  margin-top: 20px;
+}
+
+td {
+  padding: 10px;
+  text-align: center;
+}
+
+a {
+  text-decoration: none;
+  color: #000;
+}
+
+a:hover {
+  text-decoration: underline;
+}
